@@ -48,6 +48,7 @@ Navigate to the insomnia app and input "http://localhost:3001/api/products/" for
 
 ## Video
 
+https://drive.google.com/file/d/1sEcqussApXk41oi4rdjyODBk1mkN4aD8/view
 
 ## Questions
 
