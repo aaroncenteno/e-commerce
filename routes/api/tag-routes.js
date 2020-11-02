@@ -76,7 +76,7 @@ router.post('/', (req, res) => {
       id: req.body.id,
       tag_name: req.body.tag_name
   })
-  .than(dbTagData => res.json(dbTagData))
+  .then(dbTagData => res.json(dbTagData))
   .catch(err => {
       console.log(err);
       res.status(400).json(err);
